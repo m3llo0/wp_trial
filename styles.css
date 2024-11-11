@@ -120,7 +120,7 @@ figcaption {
 
 section.quote{
     background-color: #e5e7eb;
-    padding: 100px;
+    padding: 60px;
     font-size: 36px;
     font-style: italic;
     text-align: center;
@@ -131,7 +131,7 @@ section.quote h5{
 }
 
 section.action{
-    padding: 50px
+    padding: 100px
 }
 
 #actionbox{
@@ -161,4 +161,11 @@ section.action{
 
 #inspire h5 {
     margin-top: -10px;
+}
+
+footer {
+    background-color: #1f2937;
+    color:#f9faf8;
+    text-align: center;
+    padding:20px;
 }
